@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/modal-react-app/static/css/main.7c921ae2.css",
-    "main.js": "/modal-react-app/static/js/main.a116a72c.js",
-    "index.html": "/modal-react-app/index.html",
-    "main.7c921ae2.css.map": "/modal-react-app/static/css/main.7c921ae2.css.map",
-    "main.a116a72c.js.map": "/modal-react-app/static/js/main.a116a72c.js.map"
+    "main.css": "/currency-convertor-react-app/static/css/main.7c921ae2.css",
+    "main.js": "/currency-convertor-react-app/static/js/main.a116a72c.js",
+    "index.html": "/currency-convertor-react-app/index.html",
+    "main.7c921ae2.css.map": "/currency-convertor-react-app/static/css/main.7c921ae2.css.map",
+    "main.a116a72c.js.map": "/currency-convertor-react-app/static/js/main.a116a72c.js.map"
   },
   "entrypoints": [
     "static/css/main.7c921ae2.css",
